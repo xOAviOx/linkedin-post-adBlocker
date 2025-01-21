@@ -13,7 +13,7 @@ function removeAds() {
         card = spans[i];
 
         while (j < 6) {
-          card.card.parentNode;
+          card = card.parentNode;
           ++j;
         }
       }
