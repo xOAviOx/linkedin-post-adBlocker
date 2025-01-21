@@ -1,1 +1,1 @@
-#A chrome web extension to block ads and "Suggested" posts.
+3# A chrome web extension to block ads and "Suggested" posts.
